@@ -1,3 +1,6 @@
+# Unnecessary to include when push
+.androidide
+
 # Built application files
 *.apk
 *.aar

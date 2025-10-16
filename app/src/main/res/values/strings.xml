@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">Scrolling Text</string>
-  <string name="article_title">First Heading</string>
-  <string name="article_subtitle">First Sub Heading</string>
-  <string name="article_text">
-    <b>Paragraf pertama</b> membahas pengenalan dasar mengenai *web development* modern. \n\n
-    Teknologi *frontend* saat ini sangat didominasi oleh *framework* reaktif seperti **React, Vue, dan Angular**, yang memungkinkan pembangunan antarmuka pengguna yang dinamis dan terawat dengan baik. 
+  <string name="article_title">Web Development</string>
+  <string name="article_subtitle">Frontend Development</string>
+  <string name="article_text"><b>Paragraf pertama</b>\n\n membahas pengenalan dasar mengenai <i>web development</i> modern. \n\n
+    Teknologi <i>frontend</i> saat ini sangat didominasi oleh <i>framework</i> reaktif seperti <b>React, Vue, dan Angular</b>, yang memungkinkan pembangunan antarmuka pengguna yang dinamis dan terawat dengan baik. 
     \n\n
-    Di sisi *backend*, bahasa seperti *Node.js* dan *Python* (dengan *framework* Django atau Flask) menawarkan fleksibilitas tinggi dalam membangun API yang kuat dan skalabel. 
+    Di sisi <i>backend</i>, bahasa seperti <b>Node.js</b> dan <b>Python</b> (dengan framework <b>Django</b> atau <b>Flask</b>) menawarkan fleksibilitas tinggi dalam membangun API yang kuat dan skalabel. 
     \n\n
-    *Penting untuk diingat*, seorang *web developer* yang sukses harus memiliki pemahaman mendalam tentang siklus pengembangan penuh, dari basis data hingga rendering di browser. 
-    
+    <b>Penting untuk diingat</b>, seorang <i>web developer</i> yang sukses harus memiliki pemahaman mendalam tentang siklus pengembangan penuh, dari basis data hingga rendering di browser. 
     \n\n
     \n\n
-    
-    <b>Paragraf kedua</b> berfokus pada pentingnya performa dan keamanan.
+    <b>Paragraf kedua</b>\n\n
+    Berfokus pada pentingnya performa dan keamanan.
     \n\n
-    Dalam dunia yang serba cepat ini, <i>optimasi kecepatan website</i> bukan lagi sekadar pilihan, melainkan sebuah keharusan. Ini mencakup pengurangan ukuran aset, *caching* yang efektif, dan pengiriman konten melalui CDN (Content Delivery Network). 
+    Dalam dunia yang serba cepat ini, <i>optimasi kecepatan website</i> bukan lagi sekadar pilihan, melainkan sebuah keharusan. Ini mencakup pengurangan ukuran aset, <i>caching</i> yang efektif, dan pengiriman konten melalui CDN (Content Delivery Network). 
     \n\n
-    Selain performa, aspek **keamanan** tidak boleh diabaikan. \n\n
-    Ancaman umum seperti *Cross-Site Scripting* (XSS) dan *SQL Injection* memerlukan perhatian serius, dan pemahaman tentang praktik pengodean yang aman adalah kunci utama untuk melindungi pengguna dan data sensitif aplikasi.
+    Selain performa, aspek <i>keamanan</i> tidak boleh diabaikan. \n\n
+    Ancaman umum seperti <b>Cross-Site Scripting</b> (XSS) dan <b>SQL Injection</b> memerlukan perhatian serius, dan pemahaman tentang praktik pengodean yang aman adalah kunci utama untuk melindungi pengguna dan data sensitif aplikasi.
 </string>
+
 </resources>
