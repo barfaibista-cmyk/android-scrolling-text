@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout
-  xmlns:android="http://schemas.android.com/apk/res/android"
-  android:layout_height="match_parent"
-  android:layout_width="match_parent">
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_height="match_parent"
+     android:layout_width="match_parent">
 
-  <TextView
-    android:layout_height="wrap_content"
-    android:layout_width="match_parent"
-    android:background="@color/colorPrimary"
-    android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
-    android:padding="@dimen/padding_regular"
-    android:textColor="@android:color/white"
-    android:id="@+id/article_heading"
-    android:text="@string/article_title"
-    android:textStyle="bold" />
+    <TextView
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:background="@color/colorPrimary"
+         android:textAppearance="?android:attr/textAppearanceLarge"
+         android:padding="@dimen/padding_regular"
+         android:textColor="@android:color/white"
+         android:id="@+id/article_heading"
+         android:text="@string/article_title"
+         android:textStyle="bold" />
 
-  <ScrollView
-    android:layout_height="wrap_content"
-    android:layout_width="wrap_content"
-    android:layout_below="@id/article_subheading">
+    <ScrollView
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:layout_below="@id/article_heading">
 
-    <LinearLayout
-      android:layout_height="wrap_content"
-      android:layout_width="match_parent"
-      android:orientation="vertical">
-      
-      <TextView
-        android:layout_height="wrap_content"
-        android:layout_width="match_parent"
-        android:layout_below="@id/article_heading"
-        android:textAppearance="@android:style/TextAppearance.DeviceDefault"
-        android:padding="@dimen/padding_regular"
-        android:id="@+id/article_subheading"
-        android:text="@string/article_subtitle" />
-      
-      <TextView
-        android:layout_height="wrap_content"
-        android:layout_width="wrap_content"
-        android:autoLink="web"
-        android:padding="@dimen/padding_regular"
-        android:lineSpacingExtra="@dimen/line_spacing"
-        android:id="@+id/article"
-        android:text="@string/article_text" />
-    </LinearLayout>
+        <LinearLayout
+             android:layout_height="wrap_content"
+             android:layout_width="match_parent"
+             android:orientation="vertical">
 
-  </ScrollView>
+            <TextView
+                 android:layout_height="wrap_content"
+                 android:layout_width="match_parent"
+                 android:textAppearance="?android:attr/textAppearanceMedium"
+                 android:padding="@dimen/padding_regular"
+                 android:id="@+id/article_subheading"
+                 android:text="@string/article_subtitle" />
+
+            <TextView
+                 android:layout_height="wrap_content"
+                 android:layout_width="match_parent"
+                 android:autoLink="web"
+                 android:padding="@dimen/padding_regular"
+                 android:lineSpacingExtra="@dimen/line_spacing"
+                 android:id="@+id/article"
+                 android:text="@string/article_text" />
+
+        </LinearLayout>
+
+    </ScrollView>
 
 </RelativeLayout>

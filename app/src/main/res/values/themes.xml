@@ -14,5 +14,5 @@
     <style name="TextAppearance.ArticleSubheading">
       <item name="android:textAppearance">@android:style/TextAppearance.DeviceDefault</item>
     </style>
-    -->
+  -->
 </resources>

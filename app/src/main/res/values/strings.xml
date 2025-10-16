@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Scrolling Text</string>
-    <string name="article_title">First Heading</string>
-    <string name="article_subtitle">First Sub Heading</string>
-    <string name="article_text"><b>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</b>
-\n\n
-<b>Ut illo esse nulla corporis placeat porro nesciunt! Ipsum minima fugit fugiat, praesentium, nulla culpa inventore eos delectus illo quam corporis, aperiam quasi. Voluptatem sit laudantium, reiciendis nam ex, sed, officia perferendis, corrupti fugit autem dolor.</b>
-\n\n
-<b>Autem dolorum at delectus voluptates ipsa neque maxime id doloremque repellat, voluptatum voluptas tempora ullam mollitia, repudiandae, aut necessitatibus? Dolores blanditiis distinctio hic aut iste deserunt aspernatur ex animi.</b>
-\n\n
-<i>Eius saepe doloremque eos recusandae tenetur voluptatibus aspernatur illum temporibus quo omnis, cupiditate dicta voluptates optio distinctio placeat natus. Nisi perspiciatis sint assumenda, sunt veritatis rerum vitae?</i>
-\n\n
-<b>Ut illo esse nulla corporis placeat porro nesciunt! Ipsum minima fugit fugiat, praesentium, nulla culpa inventore eos delectus illo quam corporis, aperiam quasi. Voluptatem sit laudantium, reiciendis nam ex, sed, officia perferendis, corrupti fugit autem dolor.</b>
-\n\n
-<b>Autem dolorum at delectus voluptates ipsa neque maxime id doloremque repellat, voluptatum voluptas tempora ullam mollitia, repudiandae, aut necessitatibus? Dolores blanditiis distinctio hic aut iste deserunt aspernatur ex animi.</b>
-\n\n
-<i>Eius saepe doloremque eos recusandae tenetur voluptatibus aspernatur illum temporibus quo omnis, cupiditate dicta voluptates optio distinctio placeat natus. Nisi perspiciatis sint assumenda, sunt veritatis rerum vitae?</i>
-\n\n
-<b>Ut illo esse nulla corporis placeat porro nesciunt! Ipsum minima fugit fugiat, praesentium, nulla culpa inventore eos delectus illo quam corporis, aperiam quasi. Voluptatem sit laudantium, reiciendis nam ex, sed, officia perferendis, corrupti fugit autem dolor.</b>
-\n\n
-<b>Autem dolorum at delectus voluptates ipsa neque maxime id doloremque repellat, voluptatum voluptas tempora ullam mollitia, repudiandae, aut necessitatibus? Dolores blanditiis distinctio hic aut iste deserunt aspernatur ex animi.</b>
-\n\n
-<b>Eius saepe doloremque eos recusandae tenetur voluptatibus aspernatur illum temporibus quo omnis, cupiditate dicta voluptates optio distinctio placeat natus. Nisi perspiciatis sint assumenda, sunt veritatis rerum vitae?</b></string>
+  <string name="app_name">Scrolling Text</string>
+  <string name="article_title">First Heading</string>
+  <string name="article_subtitle">First Sub Heading</string>
+  <string name="article_text"><b>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</b>\n\n
+  <b>Ut illo esse nulla corporis placeat porro nesciunt! Ipsum minima fugit fugiat, praesentium, nulla culpa inventore eos delectus illo quam corporis, aperiam quasi. Voluptatem sit laudantium, reiciendis nam ex, sed, officia perferendis, corrupti fugit autem dolor.</b>
+  <b>Autem dolorum at delectus voluptates ipsa neque maxime id doloremque repellat, voluptatum voluptas tempora ullam mollitia, repudiandae, aut necessitatibus? Dolores blanditiis distinctio hic aut iste deserunt aspernatur ex animi.</b>
+  
+  <i>Eius saepe doloremque eos recusandae tenetur voluptatibus aspernatur illum temporibus quo omnis, cupiditate dicta voluptates optio distinctio placeat natus. Nisi perspiciatis sint assumenda, sunt veritatis rerum vitae?</i>
+  <b>Ut illo esse nulla corporis placeat porro nesciunt! Ipsum minima fugit fugiat, praesentium, nulla culpa inventore eos delectus illo quam corporis, aperiam quasi. Voluptatem sit laudantium, reiciendis nam ex, sed, officia perferendis, corrupti fugit autem dolor.</b>
+  <b>Autem dolorum at delectus voluptates ipsa neque maxime id doloremque repellat, voluptatum voluptas tempora ullam mollitia, repudiandae, aut necessitatibus? Dolores blanditiis distinctio hic aut iste deserunt aspernatur ex animi.</b>
+  
+  <i>Eius saepe doloremque eos recusandae tenetur voluptatibus aspernatur illum temporibus quo omnis, cupiditate dicta voluptates optio distinctio placeat natus. Nisi perspiciatis sint assumenda, sunt veritatis rerum vitae?</i>
+  <b>Ut illo esse nulla corporis placeat porro nesciunt! Ipsum minima fugit fugiat, praesentium, nulla culpa inventore eos delectus illo quam corporis, aperiam quasi. Voluptatem sit laudantium, reiciendis nam ex, sed, officia perferendis, corrupti fugit autem dolor.</b>
+  
+  <b>Autem dolorum at delectus voluptates ipsa neque maxime id doloremque repellat, voluptatum voluptas tempora ullam mollitia, repudiandae, aut necessitatibus? Dolores blanditiis distinctio hic aut iste deserunt aspernatur ex animi.</b>
+  <b>Eius saepe doloremque eos recusandae tenetur voluptatibus aspernatur illum temporibus quo omnis, cupiditate dicta voluptates optio distinctio placeat natus. Nisi perspiciatis sint assumenda, sunt veritatis rerum vitae?</b></string>
 </resources>
