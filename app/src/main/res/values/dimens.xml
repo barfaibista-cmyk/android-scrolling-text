@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_xsmall">4dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_regular">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+    
+    <dimen name="line_spacing">10dp</dimen>
+
+    <dimen name="text_size_body">16sp</dimen>
+    <dimen name="text_size_title">20sp</dimen>
+    
+    <dimen name="button_height">48dp</dimen>
+</resources>
