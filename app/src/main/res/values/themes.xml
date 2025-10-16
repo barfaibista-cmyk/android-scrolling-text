@@ -4,15 +4,4 @@
   </style>
 
   <style name="AppTheme" parent="Base.AppTheme" />
-  <!--
-    <style name="TextAppearance.ArticleHeading">
-      <item name="android:textAppearance">@android:style/TextAppearance.DeviceDefault.Large</item>
-      <item name="android:textColor">@android:color/white</item>
-      <item name="android:textStyle">bold</item>
-    </style>
-
-    <style name="TextAppearance.ArticleSubheading">
-      <item name="android:textAppearance">@android:style/TextAppearance.DeviceDefault</item>
-    </style>
-  -->
 </resources>
